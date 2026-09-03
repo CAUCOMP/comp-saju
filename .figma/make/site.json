@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a mobile-optimized web experience tailored to iPhone 13 screen ratio, enhancing usability and visual consistency for mobile users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

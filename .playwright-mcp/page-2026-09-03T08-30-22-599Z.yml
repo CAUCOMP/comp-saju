@@ -1,0 +1,18 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - heading "팀플 사주" [level=1] [ref=e15]
+    - paragraph [ref=e16]: 오늘 나는 팀플에서어떤 사람이 될까?
+    - paragraph [ref=e17]: 생년월일을 입력하고 오늘의 팀플 운세를 확인해보세요.
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]: 이름
+      - textbox "임도현" [ref=e21]
+    - generic [ref=e22]:
+      - generic [ref=e23]: 생년월일
+      - textbox [ref=e24]
+    - generic [ref=e25]:
+      - generic [ref=e26]: 태어난 시간
+      - textbox [ref=e27]
+      - button "태어난 시간을 몰라요" [ref=e28]
+  - button [ref=e31]
+  - paragraph [ref=e40]: 본 서비스는 재미를 위한 콘텐츠입니다.
