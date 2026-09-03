@@ -95,7 +95,7 @@ export default function LandingScreen({ onSubmit, isSubmitting = false }: Props)
           </label>
           <input
             type="text"
-            placeholder="임도현"
+            placeholder="이름을 입력해주세요"
             value={name}
             onChange={(e) => {
               setName(e.target.value)
@@ -205,10 +205,6 @@ export default function LandingScreen({ onSubmit, isSubmitting = false }: Props)
         </button>
       </motion.div>
 
-      {/* Footer disclaimer */}
-      <p className="text-center text-xs pb-5" style={{ color: "#c09070" }}>
-        본 서비스는 재미를 위한 콘텐츠입니다.
-      </p>
     </div>
   )
 }

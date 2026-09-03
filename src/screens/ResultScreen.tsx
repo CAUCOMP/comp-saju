@@ -316,10 +316,23 @@ export default function ResultScreen({ name, result, onRestart }: Props) {
           이런 서비스를 직접 만들어보고 싶다면?
         </p>
         <p className="text-sm font-black" style={{ color: "#d4763b" }}>
-          OOO 웹개발 동아리
+          COMP 웹개발 동아리
         </p>
+        <a
+          href="https://www.instagram.com/cau_comp?igsi=eDN3aDdnNHdhamc3&utm_source=qr"
+          target="_blank"
+          rel="noreferrer"
+          className="mt-2 inline-flex items-center justify-center rounded-full px-4 py-2 text-xs font-black transition-all active:scale-[0.98]"
+          style={{
+            background: "rgba(255,255,255,0.72)",
+            color: "#d4763b",
+            border: "1.5px solid #f0d4b0",
+          }}
+        >
+          인스타 바로가기
+        </a>
         <p className="text-xs mt-1" style={{ color: "#c09070" }}>
-          Made by OOO 웹개발 동아리
+          Made by COMP 웹개발 동아리
         </p>
       </motion.div>
     </div>
