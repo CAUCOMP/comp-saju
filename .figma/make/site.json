@@ -1,5 +1,9 @@
 {
+  "title": "comp-saju",
   "description": "Delivers a mobile-optimized web experience tailored to iPhone 13 screen ratio, enhancing usability and visual consistency for mobile users.",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
   "robots": {
     "index": false
   },
